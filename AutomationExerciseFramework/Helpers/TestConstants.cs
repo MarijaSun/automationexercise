@@ -19,5 +19,9 @@ namespace AutomationExerciseFramework.Helpers
         public const string City = "Montreal";
         public const string ZipCode = "10010";
         public const string Phone = "0000100100";
-    }     
+
+        //contact us data
+        public const string Subject = "Requets";
+        public const string Message = "Would you be able to remowe all adds from your website please?";
+            }     
 }
